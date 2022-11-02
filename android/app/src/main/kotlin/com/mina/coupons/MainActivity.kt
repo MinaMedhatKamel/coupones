@@ -1,4 +1,4 @@
-package com.example.coupones_trail
+package com.mina.coupons
 
 import io.flutter.embedding.android.FlutterActivity
 
